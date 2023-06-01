@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="MediaElementShellBug.app/MediaElementShellBug">
+      <BCSymbolMapName>MediaElementShellBug.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>MediaElementShellBug.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/clem/swiss4/MediaElementShellBug/MediaElementShellBug/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>MediaElementShellBug.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/clem/swiss4/MediaElementShellBug/MediaElementShellBug</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
